@@ -23,7 +23,10 @@ export default () => (
 
         <p>
           Make a POST request to{" "}
-          <span className="select-all underline">https://covid19api-graphql.netlify.app/.netlify/functions/graphql</span>
+          <span className="select-all underline">
+            https://covid19api-graphql.netlify.app/.netlify/functions/graphql
+          </span>{" "}
+          with the query sample as the body
         </p>
       </section>
     </main>

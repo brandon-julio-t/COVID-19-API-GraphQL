@@ -25,7 +25,12 @@ export default () => (
         </p>
 
         <p>
-          <a className="underline" href="https://covid19api.com/" rel="noopener noreferrer" target="_blank">
+          <a
+            className="underline"
+            href="https://github.com/brandon-julio-t/COVID-19-API-GraphQL"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
             Source Code
           </a>
         </p>

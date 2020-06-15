@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "gatsby-plugin-postcss": "^2.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
